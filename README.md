@@ -1,8 +1,6 @@
 # Prework Study Guide Webpage
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
-
 - What was your motivation? To better understand the new materials for basic web developing skills 
 - Why did you build this project? To organize materials learned from the coding bootcamp prework course
 - What problem does it solve? It solves the problem in lack of memory storage in my brain
